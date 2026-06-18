@@ -1,0 +1,56 @@
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.exe
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.deps.json
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.runtimeconfig.json
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.dll
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.pdb
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfoInputs.cache
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfo.cs
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.csproj.CoreCompileInputs.cache
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.dll
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\refint\PipeClient.dll
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.pdb
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.genruntimeconfig.cache
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\ref\PipeClient.dll
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.exe
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.deps.json
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.runtimeconfig.json
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.dll
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.pdb
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfoInputs.cache
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfo.cs
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.dll
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\refint\PipeClient.dll
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.pdb
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.genruntimeconfig.cache
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\ref\PipeClient.dll
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.exe
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.deps.json
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.runtimeconfig.json
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.dll
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.pdb
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfoInputs.cache
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfo.cs
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.dll
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\obj\Debug\net10.0\refint\PipeClient.dll
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.pdb
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.genruntimeconfig.cache
+C:\Users\bogda\Desktop\2\PipeClient\PipeClient\obj\Debug\net10.0\ref\PipeClient.dll
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.exe
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.deps.json
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.runtimeconfig.json
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.dll
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\bin\Debug\net10.0\PipeClient.pdb
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfoInputs.cache
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfo.cs
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.dll
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\refint\PipeClient.dll
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.pdb
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\PipeClient.genruntimeconfig.cache
+C:\Users\bogda\Desktop\mdk01-04-system-programming\2\PipeClient\PipeClient\obj\Debug\net10.0\ref\PipeClient.dll

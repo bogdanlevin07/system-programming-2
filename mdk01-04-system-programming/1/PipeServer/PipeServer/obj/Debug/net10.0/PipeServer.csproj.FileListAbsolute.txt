@@ -1,0 +1,42 @@
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.exe
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.deps.json
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.runtimeconfig.json
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.dll
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.pdb
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.AssemblyInfoInputs.cache
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.AssemblyInfo.cs
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.csproj.CoreCompileInputs.cache
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.dll
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\refint\PipeServer.dll
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.pdb
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.genruntimeconfig.cache
+C:\Users\даша\Desktop\матеша\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\ref\PipeServer.dll
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.exe
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.deps.json
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.runtimeconfig.json
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.dll
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.pdb
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.AssemblyInfoInputs.cache
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.AssemblyInfo.cs
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.dll
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\refint\PipeServer.dll
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.pdb
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.genruntimeconfig.cache
+C:\Users\bogda\Downloads\mdk01-04-system-programming (1)\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\ref\PipeServer.dll
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.exe
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.deps.json
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.runtimeconfig.json
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.dll
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\bin\Debug\net10.0\PipeServer.pdb
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.AssemblyInfoInputs.cache
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.AssemblyInfo.cs
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.dll
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\refint\PipeServer.dll
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.pdb
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\PipeServer.genruntimeconfig.cache
+C:\Users\bogda\Desktop\mdk01-04-system-programming\1\PipeServer\PipeServer\obj\Debug\net10.0\ref\PipeServer.dll
